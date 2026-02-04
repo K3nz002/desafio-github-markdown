@@ -3,6 +3,8 @@ Desafio de projeto da DIO para o curso Formação Github Certification
 
 ***Objetivo cumpridos***
 
+------------------------------------------------
+
 |       Objetivo       |      Cumprido        |
 |        :---:         |         :---:        |
 |       Criar conta no Github      |     [ x ]     |
@@ -12,5 +14,9 @@ Desafio de projeto da DIO para o curso Formação Github Certification
 |       Realizar commits, abrir issues e pull requests      |     [ x ]     |
 |       Formatar o arquivo com Markdown      |     [ x ]     |
 
+-------------------------------------------------
+
 ***Colaboradores***
 - guilhermefujimura
+- K3nz002
+
